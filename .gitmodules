@@ -1,6 +1,4 @@
 [submodule "Trakr_Backend"]
 	path = Trakr_Backend
 	url = https://github.com/sahinDa/Trakr_Backend.git
-[submodule "Trakr_Frontend"]
-	path = Trakr_Frontend
-	url = https://github.com/sahinDa/Trakr_Frontend.git
+
